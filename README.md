@@ -21,4 +21,4 @@ Telegram Bots (Tg_Bots)
 
 വേറെ ലിങ്ക് ആണ് ഉള്ളത്
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mo-Tech-Muhammed/Management)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/qwertyclass/Mo-)
